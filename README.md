@@ -1,4 +1,4 @@
-[![php Developer](https://www.facebook.com/saikat.naskar.94)](https://www.facebook.com/photo/?fbid=907173126062480&set=a.514634485316348)
+![php Developer](https://scontent.fccu31-1.fna.fbcdn.net/v/t1.18169-9/12809547_907173126062480_5255544322989407519_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=300f58&_nc_ohc=VIKVbFTMoREAX-BqAmP&_nc_ht=scontent.fccu31-1.fna&oh=00_AfCGq7_4VxMHwNZjyZhFSYanz6eCsDgWbJZt6LJw7-HgoQ&oe=6561BC8B)
 
 ### Hi there 👋, I'm Saikat
 #### php Developer
@@ -14,7 +14,7 @@ Skills: php / JS / HTML / CSS / CI /
 - 💬 Ask me about php developer 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saikatnaskar16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Saikat Naskar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Saikat Naskar)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saikatnaskar16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/photo/?fbid=907173126062480&set=a.514634485316348)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
